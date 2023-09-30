@@ -15,7 +15,7 @@ It's a site for the programming community of SJCE which is a technical club focu
   - problem_of_day.js        # javascript file for the problem of day page
   - contests.js              # javascript file for the contests page
   - signup_login.js          # javascript file for the signup page
-- /images             # Image assets
+- /images             # Image assets if want create this folder and upload required images
 - README.md           # Project documentation
   - index.html                # Main HTML file for the home page
   - problem_of_day.html       # Main HTML file for the problem of day page
