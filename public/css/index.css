@@ -32,7 +32,7 @@ ul.nav-ul li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 26px;
 }
 
 ul.nav-ul li a:hover:not(.active) {
@@ -66,8 +66,8 @@ ul.nav-ul li.right {
 
 #about {
   font-size: 35px;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif, "Lucida Sans", Arial, sans-serif;
 }
 
 .container_1 {
@@ -121,7 +121,8 @@ ul.nav-ul li.right {
 h3 {
   color: rgba(241, 177, 202, 0.995);
   font-size: 30px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-shadow: 2px 1px rgb(243, 31, 16);
 }
 
